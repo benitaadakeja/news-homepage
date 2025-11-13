@@ -1,5 +1,6 @@
-<img width="1366" height="760" alt="image" src="https://github.com/user-attachments/assets/3d1af237-cdd8-480b-86f0-7875d538df11" />
 
+
+<img width="1347" height="647" alt="news-homepage" src="https://github.com/user-attachments/assets/736a808f-256c-4b2b-843d-ef0ae0d4be7d" />
 
 
 # My AWS S3 Static Website
