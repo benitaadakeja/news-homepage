@@ -10,7 +10,9 @@ This repository contains the source files for my **static portfolio website**, d
 
 
 [Live Website Link] http://news-homepage.s3-website.eu-north-1.amazonaws.com/#
+
 [View Live Website] https://d33tgmc9l3vps6.cloudfront.net/
+
 [Documentation Link] https://docs.google.com/document/d/1Y-NDRAG4oSkXwKY0QlZefA__YlLwzI7EU_YJ744ibOU/edit?usp=sharing
 ---
 
