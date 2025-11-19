@@ -3,9 +3,14 @@
 <img width="1347" height="647" alt="news-homepage" src="https://github.com/user-attachments/assets/736a808f-256c-4b2b-843d-ef0ae0d4be7d" />
 
 
-# My AWS S3 Static Website
+# My AWS S3 Static Website and AWS CloudFront Deployment
+
+This repository contains the source files for my **static portfolio website**, deployed using **Amazon S3** and distributed globally with **Amazon CloudFront**. The project demonstrates basic AWS cloud skills, including static website hosting, CDN setup, and HTTPS delivery.
+
+
 
 [Live Website Link] http://news-homepage.s3-website.eu-north-1.amazonaws.com/#
+[View Live Website] https://d33tgmc9l3vps6.cloudfront.net/
 [Documentation Link] https://docs.google.com/document/d/1Y-NDRAG4oSkXwKY0QlZefA__YlLwzI7EU_YJ744ibOU/edit?usp=sharing
 ---
 
@@ -18,6 +23,13 @@ This is a **static website** deployed on **AWS S3**. The project demonstrates:
 - Enabling AWS S3 **Static Website Hosting**  
 
 ---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS  
+- **Hosting & CDN:** AWS S3, CloudFront  
+- **Skills Showcased:** Static website deployment, CloudFront configuration, HTTPS setup
+
 
 ## File Structure
 
